@@ -11,7 +11,6 @@ def multiply(a, b):
         return None
 
 if __name__ == "__main__":
-    res = multiply(1, 2)
-    print(res)
+    print("Hello, World!")
 
 
